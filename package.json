@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "json:server": "json-server --watch ./testjsondata/db.json"
+    "json:server": "json-server --watch db.json"
   },
   "author": "",
   "license": "ISC"
